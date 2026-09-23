@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+
+# scratch files the file-I/O lectures write next to themselves when run
+lectures/*.txt
+lectures/*.csv
+lectures/*.tsv
+lectures/*.bin
+lectures/*.json
+lectures/*.png
+reviews/*.txt
+reviews/*.csv
+reviews/*.pkl
